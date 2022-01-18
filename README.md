@@ -1,2 +1,2 @@
 # Lottery-by-php
-自動開彩PHP
+自動開彩PHP版本
